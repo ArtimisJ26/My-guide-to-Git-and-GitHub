@@ -1,10 +1,6 @@
 Reference: https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git
 
 Make sure you have authenticated GitHub on your command line
-How? -> 
- - Open your GitHub account on your browser 
- - Open 
-
 
 Step #1:- Create a new repository on GitHub.com
 Do not initialize the new repository with README, license, or gitignore files to avoid errors.
