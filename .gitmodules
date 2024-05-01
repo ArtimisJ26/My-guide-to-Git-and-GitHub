@@ -1,0 +1,3 @@
+[submodule "the_simplest_git_repository"]
+	path = the_simplest_git_repository
+	url = https://github.com/ArtimisJ26/the_simplest_git_repository.git
